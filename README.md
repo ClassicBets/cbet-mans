@@ -10,3 +10,5 @@ You can find here ClassicBets CBET resources and various manuals.
 
 **Resources**
 -----------
+
+ClassicBets CBET Various logos for marketing usage - [click here](resources/cbet-logos.zip)
