@@ -11,4 +11,5 @@ You can find here ClassicBets CBET resources and various manuals.
 **Resources**
 -----------
 
+ClassicBets CBET White Paper v 1.0a - [click here](resources/cbwp.pdf)
 ClassicBets CBET Various logos for marketing usage - [click here](resources/cbet-logos.zip)
