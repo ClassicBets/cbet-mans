@@ -30,7 +30,7 @@ b) It will open for you ClassicBets buy order card **[Scr.3]**
 ![Presaleman4](img/presaleman4.jpg)
 
 a) Select which package you want to buy.**[Point.1/Scr.1]** You can select between Full ClassicBets Masternode 
-(3333.30 CBET coins for 0.33 BTC) or ClassicBets Staking Package (333.00 CBET coins for 0.035 BTC)
+(3333.30 CBET coins for 0.267 BTC) or ClassicBets Staking Package (333.00 CBET coins for 0.0267 BTC)
 
 b) Provide your wallet address from **Step-1** where you want to receive your bought CBET coins **[Point.2/Scr.1]**
 
